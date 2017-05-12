@@ -1,6 +1,6 @@
 var $ = window.Zepto;
 var $scope = $(document.body);
-var dataUrl = '/mock/data.json';
+var dataUrl = '/music_player/mock/data.json';
 var player = window.player;
 var render = player.render;
 var songList;

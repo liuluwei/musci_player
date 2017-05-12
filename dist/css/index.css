@@ -130,25 +130,25 @@ body {
   background-position: 50% 50%;
 }
 .content-wrapper .play-control .like-btn {
-  background-image: url(/src/img/icon-like.png);
+  background-image: url(/music_player/src/img/icon-like.png);
 }
 .content-wrapper .play-control .like-btn.liked {
-  background-image: url(/src/img/icon-like-solid.png);
+  background-image: url(/music_player/src/img/icon-like-solid.png);
 }
 .content-wrapper .play-control .prev-btn {
-  background-image: url(/src/img/icon-prev.png);
+  background-image: url(/music_player/src/img/icon-prev.png);
 }
 .content-wrapper .play-control .play-btn {
-  background-image: url(/src/img/icon-play.png);
+  background-image: url(/music_player/src/img/icon-play.png);
 }
 .content-wrapper .play-control .play-btn.playing {
-  background-image: url(/src/img/icon-pause.png);
+  background-image: url(/music_player/src/img/icon-pause.png);
 }
 .content-wrapper .play-control .next-btn {
-  background-image: url(/src/img/icon-next.png);
+  background-image: url(/music_player/src/img/icon-next.png);
 }
 .content-wrapper .play-control .list-btn {
-  background-image: url(/src/img/icon-list.png);
+  background-image: url(/music_player/src/img/icon-list.png);
 }
 .play-list {
   position: fixed;
